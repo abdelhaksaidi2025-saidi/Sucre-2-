@@ -1,0 +1,6 @@
+{
+  "name": "SugarDesk Global - Suivi Bourse Mondiale du Sucre",
+  "description": "Plateforme professionnelle de cotations boursières mondiales du sucre en temps réel en dollars par tonne ($/t) pour le Sucre Blanc No. 5 (ICE Londres) et le Sucre Brut No. 11 (ICE New York), avec graphiques chandeliers, spread White Premium et alertes de prix sonores et visuelles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
